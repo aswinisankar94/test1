@@ -1,20 +1,6 @@
+added another list python list
+django
+celery
+rest framework
+pandas
 
-
-
-just for an test"hello"
-
-
-addeded one para
-
-listed some places
-tezpur
-sonitpur
-phalughbaung
-thekiyajuli
-
-
-
-list some food
-biriyani
-fish fry
-chicken kofta
